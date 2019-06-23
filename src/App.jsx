@@ -1,7 +1,7 @@
 import React from 'react';
 import './resources/styles.css'
 
-import Header from './components/header/Header'
+import Header from './components/header/header'
 
 
 function App() {
@@ -12,4 +12,4 @@ function App() {
   );
 }
 
-export default App;
+export {App};
